@@ -36,8 +36,8 @@ console.log(arr[2]);
 // console.log("arr" + " - object");
 // console.log(4 + +" - object");
 
-let incr = 10 ,
-    dec = 10;
+// let incr = 10 ,
+//     dec = 10;
 
 
 
